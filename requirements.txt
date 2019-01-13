@@ -1,1 +1,1 @@
--c vpython -c vpython/label/pre-release vpython=7.5.0alpha1
+--pre vpython
