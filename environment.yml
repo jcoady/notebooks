@@ -1,0 +1,6 @@
+name: vp-test
+channels:
+  - vpython/label/pre-release
+  - vpython
+dependencies:
+  - vpython=7.5.0alpha2
