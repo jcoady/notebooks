@@ -2,5 +2,7 @@ name: vp-test
 channels:
   - vpython/label/pre-release
   - vpython
+  - conda-forge
 dependencies:
   - vpython=7.5.0alpha2
+  - jupyterlab
