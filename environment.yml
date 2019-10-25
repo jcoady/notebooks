@@ -1,10 +1,10 @@
-name: vp-test
+name: vpython-demos
 channels:
+  - vpython/label/pre-release
   - vpython
   - conda-forge
+  - anaconda
 dependencies:
-  - vpython=7.5.0
-  - jupyterlab
-  - pip
-  - pip:
-    - jupyter-server-proxy
+  - vpython=7.5.2.beta5
+  - jupyterlab=1.1.4
+  - Cython
