@@ -4,6 +4,6 @@ channels:
   - conda-forge
   - anaconda
 dependencies:
-  - vpython=7.5.2
+  - vpython=7.6.1
   - jupyterlab=1.2.6
   - Cython
