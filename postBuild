@@ -1,2 +1,2 @@
-jupyter labextension install vpython@0.4.9
+jupyter labextension install vpython@1.0.0
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
