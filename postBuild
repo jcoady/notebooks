@@ -3,5 +3,5 @@
 pypy3 -m ensurepip
 pypy3 -m pip install --upgrade pip setuptools wheel
 pypy3 -m pip install ipykernel
-pypy3 -m ipykernel install --user --name pypy3 --display-name "PyPy3"
+pypy3 -m ipykernel install --name pypy3 --display-name "PyPy3"
 pypy3 -m pip install vpython
