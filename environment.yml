@@ -5,6 +5,6 @@ channels:
   - anaconda
 dependencies:
   - vpython=7.6.1
-  - jupyterlab=1.2.6
+  - jupyterlab=3.0.14
   - Cython
   - pypy3.6
