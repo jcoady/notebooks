@@ -1,3 +1,4 @@
 Cython
-vpython
-jupyterlab
+vpython==7.6.1
+jupyterlab==3.0.14
+jupyterlab-vpython
