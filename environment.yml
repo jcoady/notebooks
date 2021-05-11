@@ -1,9 +1,0 @@
-name: vpython-demos
-channels:
-  - vpython
-  - conda-forge
-  - anaconda
-dependencies:
-  - vpython=7.6.1
-  - jupyterlab=3.0.14
-  - Cython
